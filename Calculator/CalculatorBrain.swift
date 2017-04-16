@@ -2,8 +2,8 @@
 //  CalculatorBrain.swift
 //  Calculator
 //
-//  Created by Yamin Hameed on 09/04/17.
-//  Copyright © 2017 Yamin Hameed. All rights reserved.
+//  Created by Yaseen Majeed on 09/04/17.
+//  Copyright © 2017 Yaseen Majeed. All rights reserved.
 //
 
 import Foundation
